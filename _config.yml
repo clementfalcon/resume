@@ -3,6 +3,6 @@ remote_theme: pages-themes/hacker@v0.2.0 # this line adds the slate theme of Jek
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "CV DE CLEMENT FALCON" # Replace "[Your Name]" with your first and last name.
+title: "CLEMENT FALCON" # Replace "[Your Name]" with your first and last name.
 show_downloads: false
-description: "Le CV de Clément Falcon, étudiant à l'INSA Hauts-de-France"
+description: "Étudiant à l'INSA Hauts-de-France"
