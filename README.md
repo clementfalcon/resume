@@ -16,7 +16,7 @@
 * ## H4F Développement Web Front-End | Décembre 2019 – Aout 2020
   + Création d’un site web en <ins>HTML/CSS</ins> pour une communauté informatique d’une centaine de membres.
 
-## Sur mon temps personnel
-  * ### Utilisation de GNU/Linux au quotidien depuis 2018 (<ins>Debian et ses dérivés</ins> par le passé, ensuite <ins>Arch</ins> et actuellement <ins>Artix</ins>)
-  * ### Remise à niveau matérielle et logicielle de multiples ordinateurs fixes ou portables (<ins>changement RAM, HDD, SSD, Pile BIOS, GPU, mise à niveau et/ou remplacement du système d’exploitation</ins>)
-  * ### Entrainement d’un modèle d’intelligence artificielle (<ins>LoRA Stable Diffusion 1.5</ins>)
+* ## Sur mon temps personnel
+  + Utilisation de GNU/Linux au quotidien depuis 2018 (<ins>Debian et ses dérivés</ins> par le passé, ensuite <ins>Arch</ins> et actuellement <ins>Artix</ins>)
+   Remise à niveau matérielle et logicielle de multiples ordinateurs fixes ou portables (<ins>changement RAM, HDD, SSD, Pile BIOS, GPU, mise à niveau et/ou remplacement du système d’exploitation</ins>)
+  + Entrainement d’un modèle d’intelligence artificielle (<ins>LoRA Stable Diffusion 1.5</ins>)
