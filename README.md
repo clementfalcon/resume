@@ -1,4 +1,4 @@
-# Passionné d'informatique
+# Étudiant passionné d'informatique
 
 ## Mes expériences
 
